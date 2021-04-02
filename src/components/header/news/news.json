@@ -1,0 +1,40 @@
+[
+  {
+    "title": "v1.30.0 of the Netdata Agent now available!",
+    "date": "2021-03-31",
+    "url": "https://github.com/netdata/netdata/releases/latest",
+    "description": "The v1.30.0 release of the Netdata Agent brings major improvements to our packaging and completely replaces Google Analytics/GTM for product telemetry. We're also releasing the first changes in an upcoming overhaul to both our dashboard UI/UX and the suite of preconfigured alarms that comes with every installation.",
+    "button_text": "Update now"
+  },
+  {
+    "title": "New guide: Develop a custom data collector in Python",
+    "date": "2021-03-24",
+    "url": "https://learn.netdata.cloud/guides/python-collector",
+    "description": "Learn how write a custom data collector in Python, which you'll use to collect metrics from and monitor any application that isn't supported out of the box.",
+    "image_url": "https://learn.netdata.cloud/img/seo/guides/python-collector.png",
+    "button_text": "Get started"
+  },
+  {
+    "title": "New guide: Unsupervised anomaly detection for Raspberry Pi monitoring",
+    "date": "2021-03-16",
+    "url": "https://learn.netdata.cloud/guides/monitor/raspberry-pi-anomaly-detection",
+    "description": "Use a low-overhead machine learning algorithm and an open-source monitoring tool to detect anomalous metrics on a Raspberry Pi.",
+    "image_url": "https://learn.netdata.cloud/img/seo/guides/monitor/raspberry-pi-anomaly-detection.png",
+    "button_text": "Learn more"
+  },
+  {
+    "title": "New guide: Unsupervised anomaly detection for Raspberry Pi monitoring 2",
+    "date": "2021-03-16",
+    "url": "https://learn.netdata.cloud/guides/monitor/raspberry-pi-anomaly-detection",
+    "description": "Use a low-overhead machine learning algorithm and an open-source monitoring tool to detect anomalous metrics on a Raspberry Pi.",
+    "button_text": "Learn more"
+  },
+  {
+    "title": "New guide: Unsupervised anomaly detection for Raspberry Pi monitoring 3",
+    "date": "2021-03-31",
+    "url": "https://learn.netdata.cloud/guides/monitor/raspberry-pi-anomaly-detection",
+    "description": "Use a low-overhead machine learning algorithm and an open-source monitoring tool to detect anomalous metrics on a Raspberry Pi.",
+    "image_url": "https://learn.netdata.cloud/img/seo/guides/monitor/raspberry-pi-anomaly-detection.png",
+    "button_text": "Learn more"
+  }
+]
